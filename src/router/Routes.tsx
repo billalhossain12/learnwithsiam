@@ -6,6 +6,7 @@ import Prepositions from "../pages/HSC/Prepositions";
 import CompletingSentences from "../pages/HSC/CompletingSentences";
 import Modifiers from "../pages/HSC/Modifiers";
 import RightFormOfVerbs from "../pages/HSC/RightFormOfVerbs";
+import Connectors from "../pages/HSC/Connectors";
 
 export const router = createBrowserRouter([
   {
@@ -37,5 +38,9 @@ export const router = createBrowserRouter([
   {
     path: "right-form-of-verbs",
     element: <RightFormOfVerbs />,
+  },
+  {
+    path: "connectors",
+    element: <Connectors />,
   },
 ]);

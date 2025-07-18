@@ -20,6 +20,9 @@ export default function HSCContent() {
         <li>
           <Link to="/right-form-of-verbs">Right Form Of Verbs</Link>
         </li>
+        <li>
+          <Link to="/connectors">Connectors</Link>
+        </li>
       </ul>
     </section>
   );

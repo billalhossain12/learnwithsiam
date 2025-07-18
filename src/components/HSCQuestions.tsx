@@ -9,7 +9,7 @@ type TItem = {
     questions: string;
     answers: string[];
     isDifficult: boolean;
-    isCompleted: boolean;
+    isCompleted?: boolean;
     options?: string[];
   };
 };
@@ -124,7 +124,10 @@ export default function HSCQuestions({
               )}
 
               {/* Questions */}
-              <p className="mb-5 leading-8" dangerouslySetInnerHTML={{__html:item?.data?.questions}}/>
+              <p
+                className="mb-5 leading-8"
+                dangerouslySetInnerHTML={{ __html: item?.data?.questions }}
+              />
 
               {/* Answers (Collapse) */}
               <Collapse
