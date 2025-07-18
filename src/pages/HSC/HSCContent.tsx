@@ -9,7 +9,16 @@ export default function HSCContent() {
           <Link to="/special-phrases">Special Phrases</Link>
         </li>
         <li>
-          <Link to="/right-form-of-verb">Right Form of Verb</Link>
+          <Link to="/prepositions">Prepositions</Link>
+        </li>
+        <li>
+          <Link to="/completing-sentences">Completing Sentences</Link>
+        </li>
+        <li>
+          <Link to="/modifiers">Modifiers</Link>
+        </li>
+        <li>
+          <Link to="/right-form-of-verbs">Right Form Of Verbs</Link>
         </li>
       </ul>
     </section>

@@ -16,32 +16,31 @@ export const specialPhrasesData = [
         "was born",
         "what's...like",
       ],
-      questions: [
-        "Our spring is very charming. During spring various kinds of flowers bloom. — seems that everything has got a new life.",
-        "— the weather — today?",
-        "Don't disturb me. You — leave me alone at this moment.",
-        "The poor man — starve than beg.",
-        "— exists no life on Mars.",
-        "Baby: Mom, — an owl —?",
-        "Sir Walter Scott was both a poet and novelist. He — in 1971.",
-        "Everybody — pay the electricity bill in time.",
-        "— we reached the station, the train started.",
-        "He did not even see a hill, — a mountain.",
-      ],
+      questions:
+        "(a) ___ we reached the station, the train started.<br />" +
+        "(b) ___ exists no life on Mars.<br />" +
+        "(c) ___ the weather ___ today?<br />" +
+        "(d) Baby: Mom, ___ an owl ___?<br />" +
+        "(e) Don't disturb me. You ___ leave me alone at this moment.<br />" +
+        "(f) Everybody ___ pay the electricity bill in time.<br />" +
+        "(g) He did not even see a hill, ___ a mountain.<br />" +
+        "(h) Our spring is very charming. During spring various kinds of flowers bloom. ___ seems that everything has got a new life.<br />" +
+        "(i) Sir Walter Scott was both a poet and novelist. He ___ in 1771.<br />" +
+        "(j) The poor man ___ starve than beg.<br />",
       answers: [
-        "it",
-        "What's...like",
-        "had better",
-        "would rather",
-        "There",
-        "what does...look like",
-        "was born",
-        "has to",
-        "As soon as",
-        "let alone",
+        "(a) As soon as",
+        "(b) There",
+        "(c) What's...like",
+        "(d) what does...look like",
+        "(e) had better",
+        "(f) has to",
+        "(g) let alone",
+        "(h) it",
+        "(i) was born",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -63,32 +62,31 @@ export const specialPhrasesData = [
         "do you mind",
         "look like",
       ],
-      questions: [
-        "He cannot buy a pen — a box of pens.",
-        "— we reached the station than the train started.",
-        "All seasons are very charming. During spring various kinds of flowers bloom.— seems that everything has got a new life.",
-        "Baby: Mom, — an owl — ?",
-        "Don’t disturb me, you — leave me alone at this moment.",
-        "The poor man — starve than beg.",
-        "— exists no life on Mars.",
-        "— taking tea with me?",
-        "Sir Walter Scott was both a poet and a novelist. He — in 1771.",
-        "He was meritorious — to understand English literature.",
-      ],
+      questions:
+        "(a) ___ exists no life on Mars.<br />" +
+        "(b) ___ taking tea with me?<br />" +
+        "(c) ___ we reached the station than the train started.<br />" +
+        "(d) All seasons are very charming. During spring various kinds of flowers bloom. ___ seems that everything has got a new life.<br />" +
+        "(e) Baby: Mom, ___ an owl ___ ?<br />" +
+        "(f) Don’t disturb me, you ___ leave me alone at this moment.<br />" +
+        "(g) He cannot buy a pen ___ a box of pens.<br />" +
+        "(h) He was meritorious ___ to understand English literature.<br />" +
+        "(i) Sir Walter Scott was both a poet and a novelist. He ___ in 1771.<br />" +
+        "(j) The poor man ___ starve than beg.<br />",
       answers: [
-        "let alone",
-        "No sooner had",
-        "there",
-        "what does … look like",
-        "had better",
-        "would rather",
-        "there",
-        "do you mind",
-        "was born",
-        "enough",
+        "(a) there",
+        "(b) do you mind",
+        "(c) No sooner had",
+        "(d) there",
+        "(e) what does … look like",
+        "(f) had better",
+        "(g) let alone",
+        "(h) enough",
+        "(i) was born",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -108,32 +106,31 @@ export const specialPhrasesData = [
         "there",
         "it",
       ],
-      questions: [
-        "Manners make a man. Students ______ practise good manners in everyday life.",
-        "You look exhausted. You ______ take rest to refresh yourself.",
-        "Mansib has not yet got 1st dose of Covid-19 vaccine, ______ booster dose.",
-        "Our spring is very charming. During spring, various flowers bloom. ______ seems everything has new life.",
-        "Rodela: ______ the frozen mountain peak ______?",
-        "Kazi Nazrul is our rebel poet. He ______ in Churulia, West Bengal.",
-        "The sky is cloudy; we should start our journey ______ possible.",
-        "______ your family ______? I belong to a nuclear family.",
-        "I ______ remain silent than quarrel.",
-        "______ was a time people traveled on foot.",
-      ],
+      questions:
+        "(a) ___ was a time people traveled on foot.<br />" +
+        "(b) ___ your family ___? I belong to a nuclear family.<br />" +
+        "(c) I ___ remain silent than quarrel.<br />" +
+        "(d) Kazi Nazrul is our rebel poet. He ___ in Churulia, West Bengal.<br />" +
+        "(e) Manners make a man. Students ___ practise good manners in everyday life.<br />" +
+        "(f) Mansib has not yet got 1st dose of Covid-19 vaccine, ___ booster dose.<br />" +
+        "(g) Our spring is very charming. During spring, various flowers bloom. ___ seems everything has new life.<br />" +
+        "(h) Rodela: ___ the frozen mountain peak ___?<br />" +
+        "(i) The sky is cloudy; we should start our journey ___ possible.<br />" +
+        "(j) You look exhausted. You ___ take rest to refresh yourself.<br />",
       answers: [
-        "have to",
-        "had better",
-        "let alone",
-        "It",
-        "What does...look like",
-        "was born",
-        "as soon as",
-        "What's...like",
-        "would rather",
-        "There",
+        "(a) There",
+        "(b) What's...like",
+        "(c) would rather",
+        "(d) was born",
+        "(e) have to",
+        "(f) let alone",
+        "(g) It",
+        "(h) What does...look like",
+        "(i) as soon as",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -153,32 +150,31 @@ export const specialPhrasesData = [
         "had better",
         "would rather",
       ],
-      questions: [
-        "You ______ not touch the crocodile. It's dangerous.",
-        "She has never boiled an egg, ______ prepared a meal.",
-        "He will go to the shop ______ the rain stops.",
-        "I don't need a lift. I ______ walk.",
-        "They ______ solve these problems soon.",
-        "______ was John who cleaned the house.",
-        "______ goes a proverb: morning shows the day.",
-        "______ an alligator ______? I've never seen one.",
-        "He ______ of German parents.",
-        "______ the journey ______? It was enjoyable.",
-      ],
+      questions:
+        "(a) ___ an alligator ___? I've never seen one.<br />" +
+        "(b) ___ goes a proverb: morning shows the day.<br />" +
+        "(c) ___ the journey ___? It was enjoyable.<br />" +
+        "(d) ___ was John who cleaned the house.<br />" +
+        "(e) He ___ of German parents.<br />" +
+        "(f) He will go to the shop ___ the rain stops.<br />" +
+        "(g) I don't need a lift. I ___ walk.<br />" +
+        "(h) She has never boiled an egg, ___ prepared a meal.<br />" +
+        "(i) They ___ solve these problems soon.<br />" +
+        "(j) You ___ not touch the crocodile. It's dangerous.<br />",
       answers: [
-        "had better",
-        "let alone",
-        "as soon as",
-        "would rather",
-        "have to",
-        "It",
-        "There",
-        "What does...look like",
-        "was born",
-        "What's...like",
+        "(a) What does...look like",
+        "(b) There",
+        "(c) What's...like",
+        "(d) It",
+        "(e) was born",
+        "(f) as soon as",
+        "(g) would rather",
+        "(h) let alone",
+        "(i) have to",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -198,28 +194,27 @@ export const specialPhrasesData = [
         "had better",
         "what does...look like",
       ],
-      questions: [
-        "The baby stopped crying ______ it saw its mother.",
-        "If ______ is any change, I'll inform you.",
-        "______ is good to walk in morning.",
-        "I ______ start now for my 4pm appointment.",
-        "She ______ decorate her room for her birthday.",
-        "______ the newborn baby ______?",
-        "______ it ______ swimming in the river?",
-        "He doesn't behave well with parents, ______ others.",
-      ],
+      questions:
+        "(a) ___ is good to walk in morning.<br />" +
+        "(b) ___ it ___ swimming in the river?<br />" +
+        "(c) ___ the newborn baby ___?<br />" +
+        "(d) He doesn't behave well with parents, ___ others.<br />" +
+        "(e) I ___ start now for my 4pm appointment.<br />" +
+        "(f) If ___ is any change, I'll inform you.<br />" +
+        "(g) She ___ decorate her room for her birthday.<br />" +
+        "(h) The baby stopped crying ___ it saw its mother.<br />",
       answers: [
-        "as soon as",
-        "there",
-        "It",
-        "had better",
-        "has to",
-        "What does...look like",
-        "What's...like",
-        "let alone",
+        "(a) It",
+        "(b) What's...like",
+        "(c) What does...look like",
+        "(d) let alone",
+        "(e) had better",
+        "(f) there",
+        "(g) has to",
+        "(h) as soon as",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -239,32 +234,31 @@ export const specialPhrasesData = [
         "would rather",
         "had better",
       ],
-      questions: [
-        "Rifat ______ see a dentist for his toothache.",
-        "Rima ______ in Indonesia, raised in America.",
-        "The game will resume ______ the rain stops.",
-        "______ has been great change in superstitious beliefs.",
-        "You ______ take rest; you look anxious.",
-        "I ______ use keyboard than write with pen.",
-        "We can't save trees, ______ our forest.",
-        "______ mother's love ______? It's incomparable.",
-        "______ is unfortunate students spoil time on Facebook.",
-        "______ the frozen mountain peak ______?",
-      ],
+      questions:
+        "(a) ___ has been great change in superstitious beliefs.<br />" +
+        "(b) ___ is unfortunate students spoil time on Facebook.<br />" +
+        "(c) ___ mother's love ___? It's incomparable.<br />" +
+        "(d) ___ the frozen mountain peak ___?<br />" +
+        "(e) I ___ use keyboard than write with pen.<br />" +
+        "(f) Rifat ___ see a dentist for his toothache.<br />" +
+        "(g) Rima ___ in Indonesia, raised in America.<br />" +
+        "(h) The game will resume ___ the rain stops.<br />" +
+        "(i) We can't save trees, ___ our forest.<br />" +
+        "(j) You ___ take rest; you look anxious.<br />",
       answers: [
-        "had better",
-        "was born",
-        "as soon as",
-        "There",
-        "had better",
-        "would rather",
-        "let alone",
-        "What's...like",
-        "It",
-        "What does...look like",
+        "(a) There",
+        "(b) It",
+        "(c) What's...like",
+        "(d) What does...look like",
+        "(e) would rather",
+        "(f) had better",
+        "(g) was born",
+        "(h) as soon as",
+        "(i) let alone",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -284,32 +278,31 @@ export const specialPhrasesData = [
         "it",
         "was born",
       ],
-      questions: [
-        "We ______ hospitalize the alive man soon.",
-        "______ is only early morning with fresh air.",
-        "My cousin ______ in Singapore, raised in America.",
-        "You ______ start journey now; weather is good.",
-        "Kamrul: ______ university admission test ______?",
-        "My father ______ resign than compromise.",
-        "______ is no fish in this pool.",
-        "Teacher: ______ Bangladesh's national flower ______?",
-        "He doesn't deserve to be enemy, ______ friend.",
-        "He repaid loan ______ he made profit.",
-      ],
+      questions:
+        "(a) ___ is no fish in this pool.<br />" +
+        "(b) ___ is only early morning with fresh air.<br />" +
+        "(c) He doesn't deserve to be enemy, ___ friend.<br />" +
+        "(d) He repaid loan ___ he made profit.<br />" +
+        "(e) Kamrul: ___ university admission test ___?<br />" +
+        "(f) My cousin ___ in Singapore, raised in America.<br />" +
+        "(g) My father ___ resign than compromise.<br />" +
+        "(h) Teacher: ___ Bangladesh's national flower ___?<br />" +
+        "(i) We ___ hospitalize the alive man soon.<br />" +
+        "(j) You ___ start journey now; weather is good.<br />",
       answers: [
-        "have to",
-        "It",
-        "was born",
-        "had better",
-        "What's...like",
-        "would rather",
-        "there",
-        "What does...look like",
-        "let alone",
-        "as soon as",
+        "(a) there",
+        "(b) It",
+        "(c) let alone",
+        "(d) as soon as",
+        "(e) What's...like",
+        "(f) was born",
+        "(g) would rather",
+        "(h) What does...look like",
+        "(i) have to",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -328,32 +321,31 @@ export const specialPhrasesData = [
         "had better",
         "as soon as",
       ],
-      questions: [
-        "A.K. Fazlul Haq ______ in Barishal.",
-        "The thief ran away ______ we saw him.",
-        "Rickshaw-puller can't afford meals, ______ rickshaw.",
-        "A warrior ______ die than yield.",
-        "You ______ apply for stipend.",
-        "A farmer ______ work hard daily.",
-        "______ your principal ______?",
-        "______ is unfortunate students waste time.",
-        "______ was a time letters took days.",
-        "Son: Dad, ______ an alien ______?",
-      ],
+      questions:
+        "(a) ___ is unfortunate students waste time.<br />" +
+        "(b) ___ was a time letters took days.<br />" +
+        "(c) ___ your principal ___?<br />" +
+        "(d) A farmer ___ work hard daily.<br />" +
+        "(e) A.K. Fazlul Haq ___ in Barishal.<br />" +
+        "(f) A warrior ___ die than yield.<br />" +
+        "(g) Rickshaw-puller can't afford meals, ___ rickshaw.<br />" +
+        "(h) Son: Dad, ___ an alien ___?<br />" +
+        "(i) The thief ran away ___ we saw him.<br />" +
+        "(j) You ___ apply for stipend.<br />",
       answers: [
-        "was born",
-        "as soon as",
-        "let alone",
-        "would rather",
-        "had better",
-        "has to",
-        "What's...like",
-        "It",
-        "There",
-        "what does...look like",
+        "(a) It",
+        "(b) There",
+        "(c) What's...like",
+        "(d) has to",
+        "(e) was born",
+        "(f) would rather",
+        "(g) let alone",
+        "(h) what does...look like",
+        "(i) as soon as",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -373,24 +365,23 @@ export const specialPhrasesData = [
         "it",
         "had better",
       ],
-      questions: [
-        "You ______ not ask me the truth.",
-        "I ______ leave than endure humiliation.",
-        "Steve Jobs ______ into a humble family.",
-        "Audience leaves ______ Nambi finishes storytelling.",
-        "He can't finish a chapter, ______ whole book.",
-        "______ are many life challenges.",
-      ],
+      questions:
+        "(a) ___ are many life challenges.<br />" +
+        "(b) Audience leaves ___ Nambi finishes storytelling.<br />" +
+        "(c) He can't finish a chapter, ___ whole book.<br />" +
+        "(d) I ___ leave than endure humiliation.<br />" +
+        "(e) Steve Jobs ___ into a humble family.<br />" +
+        "(f) You ___ not ask me the truth.<br />",
       answers: [
-        "had better",
-        "would rather",
-        "was born",
-        "as soon as",
-        "let alone",
-        "There",
+        "(a) There",
+        "(b) as soon as",
+        "(c) let alone",
+        "(d) would rather",
+        "(e) was born",
+        "(f) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -411,32 +402,31 @@ export const specialPhrasesData = [
         "have to",
         "What if",
       ],
-      questions: [
-        "Sumi talks too much. It ___ she were a mad.",
-        "Can anyone tell me ___? I have never seen an elephant.",
-        "I am eagerly waiting for your reply. Please answer me ___ you can.",
-        "___ swimming in a river? I am so excited.",
-        "Helmet should be used while driving a motorbike. ___ you were in a bike and met a serious accident?",
-        "This is a secret matter. We ___ not discuss this in public.",
-        "Socrates who was sentenced to death by drinking hemlock ___ in 469 BC.",
-        "I ___ take an auto bike than go to college on foot. The exam is about to start.",
-        "Sometimes we ___ accept something unwillingly for the sake of peace.",
-        "I can hardly walk ___ run a race.",
-      ],
+      questions:
+        "(a) ___ swimming in a river? I am so excited.<br />" +
+        "(b) ___ watching a horror film at midnight? You are really scared.<br />" +
+        "(c) Can anyone tell me ___? I have never seen an elephant.<br />" +
+        "(d) Helmet should be used while driving a motorbike. ___ you were in a bike and met a serious accident?<br />" +
+        "(e) I ___ take an auto bike than go to college on foot. The exam is about to start.<br />" +
+        "(f) I can hardly walk ___ run a race.<br />" +
+        "(g) It is winter. You ___ buy a coat.<br />" +
+        "(h) Socrates who was sentenced to death by drinking hemlock ___ in 469 BC.<br />" +
+        "(i) Sumi talks too much. It ___ she were a mad.<br />" +
+        "(j) This is a secret matter. We ___ not discuss this in public.<br />",
       answers: [
-        "as if",
-        "what does...look",
-        "as soon as",
-        "What's it like",
-        "What if",
-        "had better",
-        "was born",
-        "would rather",
-        "have to",
-        "let alone",
+        "(a) What's it like",
+        "(b) What's it like",
+        "(c) what does...look",
+        "(d) What if",
+        "(e) would rather",
+        "(f) let alone",
+        "(g) had better",
+        "(h) was born",
+        "(i) as if",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -457,32 +447,31 @@ export const specialPhrasesData = [
         "what's it like",
         "had...than",
       ],
-      questions: [
-        "You look exhausted. You ___ take rest for a while.",
-        "The thief has fled away ___ he might be caught.",
-        "___ I seen the snake ___ I became awe-struck.",
-        "It would render my cooperation to you if ___ requires.",
-        "It was long ___ I had met you.",
-        "He met me, he hugged me warmly.",
-        "I don’t expect any help from him. He is ___ busy ___ help you.",
-        "I am an orphan now. ___ my father had lived longer.",
-        "He cannot walk for few steps ___ run for a mile.",
-        "He overlooks me ___ he never knew me.",
-      ],
+      questions:
+        "(a) ___ I seen the snake ___ I became awe-struck.<br />" +
+        "(b) He met me, he hugged me warmly.<br />" +
+        "(c) He overlooks me ___ he never knew me.<br />" +
+        "(d) I am an orphan now. ___ my father had lived longer.<br />" +
+        "(e) I don’t expect any help from him. He is ___ busy ___ help you.<br />" +
+        "(f) It was long ___ I had met you.<br />" +
+        "(g) It would render my cooperation to you if ___ requires.<br />" +
+        "(h) The thief has fled away ___ he might be caught.<br />" +
+        "(i) He cannot walk for few steps ___ run for a mile.<br />" +
+        "(j) You look exhausted. You ___ take rest for a while.<br />",
       answers: [
-        "had better",
-        "as if",
-        "No sooner...than",
-        "it",
-        "since",
-        "As soon as",
-        "too...to",
-        "Would that",
-        "let alone",
-        "as if",
+        "(a) No sooner...than",
+        "(b) As soon as",
+        "(c) as if",
+        "(d) Would that",
+        "(e) too...to",
+        "(f) since",
+        "(g) it",
+        "(h) as if",
+        "(i) let alone",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -503,32 +492,31 @@ export const specialPhrasesData = [
         "it",
         "was born",
       ],
-      questions: [
-        "___ looks dangerous to reach the top. Very few number of people can arrive there safely.",
-        "All passengers ___ fill in an immigration form on arrival. It is mandatory.",
-        "My cousin ___ in Malaysia and raised in America. Now she has a dual citizenship.",
-        "___ your family ___? Is it an extended family like ours?",
-        "Your mother seems to be very weak. You ___ consult an experienced doctor about her health.",
-        "His parents ___ stay in village than live with him in Dhaka. Both of them don’t like city life.",
-        "___ have been significant changes in the types of entertainment over time. Many of those no longer exist.",
-        "Teacher learners ___ the national flower of Bangladesh ___? Students! It looks a bit like the lotus.",
-        "It is not easy to score a goal ___ hat trick.",
-        "We informed the police ___ the incident took place. But the police didn’t arrive even after two hours.",
-      ],
+      questions:
+        "(a) ___ have been significant changes in the types of entertainment over time. Many of those no longer exist.<br />" +
+        "(b) ___ looks dangerous to reach the top. Very few number of people can arrive there safely.<br />" +
+        "(c) ___ the weather ___ today?<br />" +
+        "(d) ___ your family ___? Is it an extended family like ours?<br />" +
+        "(e) All passengers ___ fill in an immigration form on arrival. It is mandatory.<br />" +
+        "(f) His parents ___ stay in village than live with him in Dhaka. Both of them don’t like city life.<br />" +
+        "(g) It is not easy to score a goal ___ hat trick.<br />" +
+        "(h) My cousin ___ in Malaysia and raised in America. Now she has a dual citizenship.<br />" +
+        "(i) Teacher learners ___ the national flower of Bangladesh ___? Students! It looks a bit like the lotus.<br />" +
+        "(j) We informed the police ___ the incident took place. But the police didn’t arrive even after two hours.<br />",
       answers: [
-        "It",
-        "have to",
-        "was born",
-        "What's...like",
-        "had better",
-        "would rather",
-        "There",
-        "what's...like",
-        "let alone",
-        "as soon as",
+        "(a) There",
+        "(b) It",
+        "(c) What's...like",
+        "(d) What's...like",
+        "(e) have to",
+        "(f) would rather",
+        "(g) let alone",
+        "(h) was born",
+        "(i) what's...like",
+        "(j) as soon as",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -549,32 +537,31 @@ export const specialPhrasesData = [
         "would rather",
         "was born",
       ],
-      questions: [
-        "He headed for the new workplace ___ he received the transfer order.",
-        "___ your new teacher ___? He is nice but a bit strict.",
-        "The Bangladesh cricket team dropped out from the tournament in the first round, ___ make it to the final.",
-        "I am trying to catch upon some sleep. You ___ turn off the TV.",
-        "___ she ___? She is tall and has blonde hair.",
-        "Although Lalon Shah ___ into a Hindu family, he grew up in a Muslim family.",
-        "Nowadays we cannot think of a single day without cell phones but ___ was a time when even land phones were a luxury.",
-        "My aunt is shy by nature, in social gatherings, she stays ___ alone than interact with others.",
-        "___ was a wonderful night. The sky was cloudless and full of stars.",
-        "You ___ follow traffic rules. You cannot drive as you like.",
-      ],
+      questions:
+        "(a) ___ was a wonderful night. The sky was cloudless and full of stars.<br />" +
+        "(b) ___ she ___? She is tall and has blonde hair.<br />" +
+        "(c) ___ your new teacher ___? He is nice but a bit strict.<br />" +
+        "(d) He headed for the new workplace ___ he received the transfer order.<br />" +
+        "(e) I am trying to catch upon some sleep. You ___ turn off the TV.<br />" +
+        "(f) Although Lalon Shah ___ into a Hindu family, he grew up in a Muslim family.<br />" +
+        "(g) My aunt is shy by nature, in social gatherings, she stays ___ alone than interact with others.<br />" +
+        "(h) Nowadays we cannot think of a single day without cell phones but ___ was a time when even land phones were a luxury.<br />" +
+        "(i) The Bangladesh cricket team dropped out from the tournament in the first round, ___ make it to the final.<br />" +
+        "(j) You ___ follow traffic rules. You cannot drive as you like.<br />",
       answers: [
-        "as soon as",
-        "What does...look",
-        "let alone",
-        "had better",
-        "What's...like",
-        "was born",
-        "there",
-        "would rather",
-        "It",
-        "have to",
+        "(a) It",
+        "(b) What's...like",
+        "(c) What does...look",
+        "(d) as soon as",
+        "(e) had better",
+        "(f) was born",
+        "(g) would rather",
+        "(h) there",
+        "(i) let alone",
+        "(j) have to",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -595,32 +582,31 @@ export const specialPhrasesData = [
         "had better",
         "does...look like",
       ],
-      questions: [
-        "Most of the kids are fun-loving. They ___ play than study.",
-        "___ the weather today?",
-        "Rani is an examinee. She ___ study a lot to make a good result.",
-        "I have been suffering from cold and cough. I can't speak clearly ___ sing.",
-        "___ seems to be a crowd on the road. Let's go and see.",
-        "The Nightingale was a nurse. She ___ was born in 1820.",
-        "The plane flying above from below? It ___ looks like a bird.",
-        "It is a cold day. ___ the sun rises, the fog disappears.",
-        "___ is a lack of communication. They don't understand the problem at all.",
-        "We ___ go home. It's getting dark.",
-      ],
+      questions:
+        "(a) ___ is a lack of communication. They don't understand the problem at all.<br />" +
+        "(b) ___ seems to be a crowd on the road. Let's go and see.<br />" +
+        "(c) ___ the sun rises, the fog disappears.<br />" +
+        "(d) ___ the weather today?<br />" +
+        "(e) I have been suffering from cold and cough. I can't speak clearly ___ sing.<br />" +
+        "(f) Most of the kids are fun-loving. They ___ play than study.<br />" +
+        "(g) Rani is an examinee. She ___ study a lot to make a good result.<br />" +
+        "(h) The Nightingale was a nurse. She ___ was born in 1820.<br />" +
+        "(i) The plane flying above from below? It ___ looks like a bird.<br />" +
+        "(j) We ___ go home. It's getting dark.<br />",
       answers: [
-        "would rather",
-        "What's...like",
-        "has to",
-        "let alone",
-        "There",
-        "was born",
-        "What...does...look",
-        "As soon as",
-        "It",
-        "had better",
+        "(a) It",
+        "(b) There",
+        "(c) As soon as",
+        "(d) What's...like",
+        "(e) let alone",
+        "(f) would rather",
+        "(g) has to",
+        "(h) was born",
+        "(i) What...does...look",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -640,32 +626,31 @@ export const specialPhrasesData = [
         "was born",
         "what's...like",
       ],
-      questions: [
-        "Begging is quite disgraceful. I think he knows it very well. He ___ starve than do so.",
-        "Deforestation is detrimental to the environment. We ___ stop cutting down trees.",
-        "What does ___ look like? He is friendly and he can help you.",
-        "It ___ is difficult to regain lost health. So we should always take care of health.",
-        "There ___ flows a river beside our village. The river is useful to us in many ways.",
-        "What's ___ like? Have you seen a camel?",
-        "He cannot express his ideas in Bangla, ___ in English.",
-        "I ___ take coffee in lieu of tea. But I like both of them.",
-        "As soon as ___ the incident took place. We informed the police.",
-        "Robert Herrick ___ in 1591. He was a famous poet of English literature.",
-      ],
+      questions:
+        "(a) ___ is difficult to regain lost health. So we should always take care of health.<br />" +
+        "(b) ___ flows a river beside our village. The river is useful to us in many ways.<br />" +
+        "(c) As soon as ___ the incident took place. We informed the police.<br />" +
+        "(d) Begging is quite disgraceful. I think he knows it very well. He ___ starve than do so.<br />" +
+        "(e) Deforestation is detrimental to the environment. We ___ stop cutting down trees.<br />" +
+        "(f) He cannot express his ideas in Bangla, ___ in English.<br />" +
+        "(g) I ___ take coffee in lieu of tea. But I like both of them.<br />" +
+        "(h) Robert Herrick ___ in 1591. He was a famous poet of English literature.<br />" +
+        "(i) What does ___ look like? He is friendly and he can help you.<br />" +
+        "(j) What's ___ like? Have you seen a camel?<br />",
       answers: [
-        "would rather",
-        "had better",
-        "what...does...look",
-        "it",
-        "there",
-        "what's...like",
-        "let alone",
-        "have to",
-        "as soon as",
-        "was born",
+        "(a) it",
+        "(b) there",
+        "(c) as soon as",
+        "(d) would rather",
+        "(e) had better",
+        "(f) let alone",
+        "(g) have to",
+        "(h) was born",
+        "(i) what...does...look",
+        "(j) what's...like",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -684,32 +669,31 @@ export const specialPhrasesData = [
         "let alone",
         "had better",
       ],
-      questions: [
-        "Bangladesh Sheikh Mujibur Rahman ___ in 1920 in Tungipara of Gopalganj district.",
-        "Professor Nathaniel Kleitman ___? Though he looks serious, he is an interesting physiologist and sleep researcher.",
-        "The train blew whistle. ___ the passenger heard the whistle, they got into it.",
-        "___ is very hot today. Moreover, load-shedding is aggravating the situation.",
-        "___ mother's love ___? It is incomparable.",
-        "My nephew's father is very sick. ___ seems to be no hope of recovery.",
-        "The sky is getting dark. Nahian ___ carry an umbrella.",
-        "Thamid was too tired to walk. He ___ run.",
-        "Ahsan ___ walk home than take a rickshaw. The road is jam-packed.",
-        "There is a charitable dispensary in our locality. None ___ pay for the service.",
-      ],
+      questions:
+        "(a) ___ is very hot today. Moreover, load-shedding is aggravating the situation.<br />" +
+        "(b) ___ mother's love ___? It is incomparable.<br />" +
+        "(c) Ahsan ___ walk home than take a rickshaw. The road is jam-packed.<br />" +
+        "(d) Bangladesh Sheikh Mujibur Rahman ___ in 1920 in Tungipara of Gopalganj district.<br />" +
+        "(e) My nephew's father is very sick. ___ seems to be no hope of recovery.<br />" +
+        "(f) Professor Nathaniel Kleitman ___? Though he looks serious, he is an interesting physiologist and sleep researcher.<br />" +
+        "(g) Thamid was too tired to walk. He ___ run.<br />" +
+        "(h) The sky is getting dark. Nahian ___ carry an umbrella.<br />" +
+        "(i) The train blew whistle. ___ the passenger heard the whistle, they got into it.<br />" +
+        "(j) There is a charitable dispensary in our locality. None ___ pay for the service.<br />",
       answers: [
-        "was born",
-        "What...does...look",
-        "As soon as",
-        "It",
-        "What's...like",
-        "There",
-        "had better",
-        "let alone",
-        "would rather",
-        "has to",
+        "(a) It",
+        "(b) What's...like",
+        "(c) would rather",
+        "(d) was born",
+        "(e) There",
+        "(f) What...does...look",
+        "(g) let alone",
+        "(h) had better",
+        "(i) As soon as",
+        "(j) has to",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -729,32 +713,31 @@ export const specialPhrasesData = [
         "would rather",
         "what's...like",
       ],
-      questions: [
-        "Selina is a poor student. She cannot afford to buy a cell phone ___ a laptop.",
-        "The sky is cloudy. It may rain today. You ___ leave early.",
-        "___ is many years since we first met. How time does fly!",
-        "His mother is sick. He needs to go home ___ possible.",
-        "We ___ develop our humanity than observe hartal and strike.",
-        "The browning is my favourite poet. He ___ was born in 1812.",
-        "There ___ was a pandemic all over the world in 2020 and 2021.",
-        "A good citizen ___ perform a lot of things.",
-        "___ the national flower of Bangladesh ___?",
-        "___ honesty ___? It is the best quality of life.",
-      ],
+      questions:
+        "(a) ___ is many years since we first met. How time does fly!<br />" +
+        "(b) ___ honesty ___? It is the best quality of life.<br />" +
+        "(c) ___ the national flower of Bangladesh ___?<br />" +
+        "(d) A good citizen ___ perform a lot of things.<br />" +
+        "(e) His mother is sick. He needs to go home ___ possible.<br />" +
+        "(f) Selina is a poor student. She cannot afford to buy a cell phone ___ a laptop.<br />" +
+        "(g) The browning is my favourite poet. He ___ was born in 1812.<br />" +
+        "(h) The new mall has opened. How ___?<br />" +
+        "(i) There ___ was a pandemic all over the world in 2020 and 2021.<br />" +
+        "(j) You ___ leave early.<br />",
       answers: [
-        "let alone",
-        "had better",
-        "It",
-        "as soon as",
-        "would rather",
-        "was born",
-        "there",
-        "has to",
-        "What's...like",
-        "What...does...look",
+        "(a) It",
+        "(b) What...does...look",
+        "(c) What's...like",
+        "(d) has to",
+        "(e) as soon as",
+        "(f) let alone",
+        "(g) was born",
+        "(h) there",
+        "(i) there",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -774,32 +757,31 @@ export const specialPhrasesData = [
         "let alone",
         "had better",
       ],
-      questions: [
-        "Time is very valuable. We ___ utilize time properly.",
-        "I ___ take a taxi than walk home. It is already too late.",
-        "Long ago ___ lived a mighty king Kubla Khan. He built an amazing palace in a deep dark forest.",
-        "___ watching a horror film at midnight? You are really scared.",
-        "It is winter. You ___ buy a coat.",
-        "___ the balcony ___? It looks very beautiful, but it is really small.",
-        "Bangladesh ___ as an independent state on 16 December 1971 after nine months of bloody war against the occupying Pakistan Army.",
-        "___ was in China that the art of Bonsai originated, perhaps more than 1000 years ago.",
-        "I cannot ride a bicycle ___ a motorcycle. I have no money to buy any of them.",
-        "___ the rain stopped, I started for home.",
-      ],
+      questions:
+        "(a) ___ the balcony ___? It looks very beautiful, but it is really small.<br />" +
+        "(b) ___ was in China that the art of Bonsai originated, perhaps more than 1000 years ago.<br />" +
+        "(c) ___ watching a horror film at midnight? You are really scared.<br />" +
+        "(d) Bangladesh ___ as an independent state on 16 December 1971 after nine months of bloody war against the occupying Pakistan Army.<br />" +
+        "(e) I cannot ride a bicycle ___ a motorcycle. I have no money to buy any of them.<br />" +
+        "(f) I ___ take a taxi than walk home. It is already too late.<br />" +
+        "(g) It is winter. You ___ buy a coat.<br />" +
+        "(h) Long ago ___ lived a mighty king Kubla Khan. He built an amazing palace in a deep dark forest.<br />" +
+        "(i) Time is very valuable. We ___ utilize time properly.<br />" +
+        "(j) ___ the rain stopped, I started for home.<br />",
       answers: [
-        "have to",
-        "would rather",
-        "There",
-        "What's it like",
-        "had better",
-        "What does... look like",
-        "was born",
-        "It",
-        "let alone",
-        "as soon as",
+        "(a) What does... look like",
+        "(b) It",
+        "(c) What's it like",
+        "(d) was born",
+        "(e) let alone",
+        "(f) would rather",
+        "(g) had better",
+        "(h) There",
+        "(i) have to",
+        "(j) as soon as",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -819,30 +801,29 @@ export const specialPhrasesData = [
         "as soon as",
         "what does... look like",
       ],
-      questions: [
-        "Rupa ___ take up the profession of teaching than be a nurse. She thinks teaching is a noble profession.",
-        "Edmund Burke was an orator, writer, and shrewd politician. He ___ in 1729 in England.",
-        "___ is difficult to regain lost health. So, we should always take care of our health.",
-        "___ flows a river beside our village. The river is useful to us in many ways.",
-        "Sarika is an examinee. She ___ study a lot to make a good result.",
-        "___ honesty ___? I think it to be a noble virtue.",
-        "Rita is ill. We ___ go to see her. She will be happy to see us.",
-        "The food was contaminated. ___ an elephant ___? I have never seen it before.",
-        "He cannot teach in a high school ___ in a university.",
-      ],
+      questions:
+        "(a) ___ flows a river beside our village. The river is useful to us in many ways.<br />" +
+        "(b) ___ honesty ___? I think it to be a noble virtue.<br />" +
+        "(c) ___ the food was contaminated. ___ an elephant ___? I have never seen it before.<br />" +
+        "(d) Edmund Burke was an orator, writer, and shrewd politician. He ___ in 1729 in England.<br />" +
+        "(e) He cannot teach in a high school ___ in a university.<br />" +
+        "(f) Rita is ill. We ___ go to see her. She will be happy to see us.<br />" +
+        "(g) Rupa ___ take up the profession of teaching than be a nurse. She thinks teaching is a noble profession.<br />" +
+        "(h) Sarika is an examinee. She ___ study a lot to make a good result.<br />" +
+        "(i) ___ is difficult to regain lost health. So, we should always take care of our health.<br />",
       answers: [
-        "would rather",
-        "was born",
-        "It",
-        "There",
-        "has to",
-        "What's... like",
-        "had better",
-        "What does... look like",
-        "let alone",
+        "(a) There",
+        "(b) What's... like",
+        "(c) What does... look like",
+        "(d) was born",
+        "(e) let alone",
+        "(f) had better",
+        "(g) would rather",
+        "(h) has to",
+        "(i) It",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -862,32 +843,31 @@ export const specialPhrasesData = [
         "let alone",
         "what does... look like",
       ],
-      questions: [
-        "The tennis match restarted ___ the rain had stopped.",
-        "In England, most school children ___ wear a uniform. Is it the same in Bangladesh?",
-        "In our country, the rainy season is very different. During this season ___ rains heavily without any gap.",
-        "Socrates was a great Greek philosopher. He ___ in 469 BC. He spoke against traditional Greek beliefs and so he was sentenced to death by drinking hemlock.",
-        "Long ago ___ lived a mighty warrior, Kubla Khan. He built an amazing palace in a deep dark, and mysterious forest.",
-        "A warrior ___ die than surrender to enemies.",
-        "He loves his country more than his life.",
-        "___ the weather ___ today?",
-        "Baby Mom, a ghost ___? It has been many years since I saw him. So, I cannot recognize him.",
-        "It may rain today. We ___ take an umbrella.",
-      ],
+      questions:
+        "(a) ___ the weather ___ today?<br />" +
+        "(b) A warrior ___ die than surrender to enemies.<br />" +
+        "(c) Baby Mom, a ghost ___? It has been many years since I saw him. So, I cannot recognize him.<br />" +
+        "(d) He loves his country more than his life.<br />" +
+        "(e) In England, most school children ___ wear a uniform. Is it the same in Bangladesh?<br />" +
+        "(f) In our country, the rainy season is very different. During this season ___ rains heavily without any gap.<br />" +
+        "(g) It may rain today. We ___ take an umbrella.<br />" +
+        "(h) Long ago ___ lived a mighty warrior, Kubla Khan. He built an amazing palace in a deep dark, and mysterious forest.<br />" +
+        "(i) Socrates was a great Greek philosopher. He ___ in 469 BC. He spoke against traditional Greek beliefs and so he was sentenced to death by drinking hemlock.<br />" +
+        "(j) The tennis match restarted ___ the rain had stopped.<br />",
       answers: [
-        "as soon as",
-        "have to",
-        "there",
-        "was born",
-        "there",
-        "would rather",
-        "had better",
-        "What's... like",
-        "What does... look like",
-        "have to",
+        "(a) What's... like",
+        "(b) would rather",
+        "(c) What does... look like",
+        "(d) had better",
+        "(e) have to",
+        "(f) there",
+        "(g) have to",
+        "(h) there",
+        "(i) was born",
+        "(j) as soon as",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -907,30 +887,29 @@ export const specialPhrasesData = [
         "would rather",
         "there",
       ],
-      questions: [
-        "Manners make a man. Students ___ practice good manners in everyday life.",
-        "You look exhausted. You ___ take rest to refresh yourself.",
-        "Raihan has not yet got the 1st dose of the COVID-19 vaccine, ___ booster dose.",
-        "Our spring is very charming. During spring, various kinds of flowers bloom. ___ seems that everything has got a new life.",
-        "Ria ___ the frozen mountain peak ___? Purnima! It looks like a white dome.",
-        "Kazi Nazrul Islam is our rebel poet. He ___ in Churulia of West Bengal.",
-        "The sky is cloudy and it may storm at any moment. So, we should start our journey ___ possible.",
-        "___ your family ___? I belong to a nuclear family.",
-        "___ was a time when people used to travel on foot or ride animals.",
-      ],
+      questions:
+        "(a) ___ was a time when people used to travel on foot or ride animals.<br />" +
+        "(b) ___ your family ___? I belong to a nuclear family.<br />" +
+        "(c) Kazi Nazrul Islam is our rebel poet. He ___ in Churulia of West Bengal.<br />" +
+        "(d) Manners make a man. Students ___ practice good manners in everyday life.<br />" +
+        "(e) Our spring is very charming. During spring, various kinds of flowers bloom. ___ seems that everything has got a new life.<br />" +
+        "(f) Raihan has not yet got the 1st dose of the COVID-19 vaccine, ___ booster dose.<br />" +
+        "(g) Ria ___ the frozen mountain peak ___? Purnima! It looks like a white dome.<br />" +
+        "(h) The sky is cloudy and it may storm at any moment. So, we should start our journey ___ possible.<br />" +
+        "(i) You look exhausted. You ___ take rest to refresh yourself.<br />",
       answers: [
-        "have to",
-        "had better",
-        "let alone",
-        "It",
-        "What's... like",
-        "was born",
-        "as soon as",
-        "What does... look like",
-        "There",
+        "(a) There",
+        "(b) What does... look like",
+        "(c) was born",
+        "(d) have to",
+        "(e) It",
+        "(f) let alone",
+        "(g) What's... like",
+        "(h) as soon as",
+        "(i) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -949,32 +928,31 @@ export const specialPhrasesData = [
         "what's... like",
         "would rather",
       ],
-      questions: [
-        "Anika can't afford a bus ticket ___ an air ticket.",
-        "It may rain today. You ___ reach home earlier.",
-        "___ is many years since we first met. How time does fly!",
-        "As his brother met with an accident, he needs to go to the hospital ___ possible.",
-        "We ___ develop our view about hartal and strikes. Let's change our destructive culture.",
-        "___ have been remarkable changes in the behavior of our young generation.",
-        "Maria Munda is a promising footballer of our country. She ___ in a remote village.",
-        "Kamrul ___ having integrity in one's character? It is the best quality of a man.",
-        "He is very poor but honest. He ___ starve than cheat anybody.",
-        "___ a squirrel ___?",
-      ],
+      questions:
+        "(a) ___ have been remarkable changes in the behavior of our young generation.<br />" +
+        "(b) ___ is many years since we first met. How time does fly!<br />" +
+        "(c) Anika can't afford a bus ticket ___ an air ticket.<br />" +
+        "(d) As his brother met with an accident, he needs to go to the hospital ___ possible.<br />" +
+        "(e) He is very poor but honest. He ___ starve than cheat anybody.<br />" +
+        "(f) Kamrul ___ having integrity in one's character? It is the best quality of a man.<br />" +
+        "(g) Maria Munda is a promising footballer of our country. She ___ in a remote village.<br />" +
+        "(h) We ___ develop our view about hartal and strikes. Let's change our destructive culture.<br />" +
+        "(i) You ___ reach home earlier.<br />" +
+        "(j) ___ a squirrel ___?<br />",
       answers: [
-        "let alone",
-        "had better",
-        "It",
-        "as soon as",
-        "have to",
-        "There",
-        "was born",
-        "What's... like",
-        "would rather",
-        "What does... look like",
+        "(a) There",
+        "(b) It",
+        "(c) let alone",
+        "(d) as soon as",
+        "(e) would rather",
+        "(f) What's... like",
+        "(g) was born",
+        "(h) have to",
+        "(i) had better",
+        "(j) What does... look like",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -994,32 +972,31 @@ export const specialPhrasesData = [
         "There",
         "It",
       ],
-      questions: [
-        "Jolly is my friend; she ___ sing in a choir, but she gave it up for some unavoidable reasons.",
-        "The world economy is passing through a great crisis due to the war situation. The world leaders ___ concentrate on the economy and security of the common people.",
-        "We went to John's office yesterday. He behaved ___ he had not known us.",
-        "___ a dinosaur ___? Have you ever seen it?",
-        "We are waiting outside. You ___ finish your dinner, don't delay to join us.",
-        "How do you ___ solving the problem? I find it quite interesting.",
-        "___ one of your family members have an accident? You should call the hospital right now!",
-        "___ you stay outside? It is dangerous to stay out at this hour.",
-        "___ too many distractions are not good for students.",
-        "___ finished eating your food, you can go out to play.",
-      ],
+      questions:
+        "(a) ___ a dinosaur ___? Have you ever seen it?<br />" +
+        "(b) ___ finished eating your food, you can go out to play.<br />" +
+        "(c) ___ too many distractions are not good for students.<br />" +
+        "(d) ___ you stay outside? It is dangerous to stay out at this hour.<br />" +
+        "(e) How do you ___ solving the problem? I find it quite interesting.<br />" +
+        "(f) Jolly is my friend; she ___ sing in a choir, but she gave it up for some unavoidable reasons.<br />" +
+        "(g) The world economy is passing through a great crisis due to the war situation. The world leaders ___ concentrate on the economy and security of the common people.<br />" +
+        "(h) We are waiting outside. You ___ finish your dinner, don't delay to join us.<br />" +
+        "(i) We went to John's office yesterday. He behaved ___ he had not known us.<br />" +
+        "(j) ___ one of your family members have an accident? You should call the hospital right now!<br />",
       answers: [
-        "used to",
-        "had better",
-        "as if",
-        "What does... look like",
-        "have to",
-        "feel like",
-        "What if",
-        "Would rather",
-        "There",
-        "As soon as",
+        "(a) What does... look like",
+        "(b) As soon as",
+        "(c) There",
+        "(d) Would rather",
+        "(e) feel like",
+        "(f) used to",
+        "(g) had better",
+        "(h) have to",
+        "(i) as if",
+        "(j) What if",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1039,32 +1016,31 @@ export const specialPhrasesData = [
         "was born",
         "what does... look like",
       ],
-      questions: [
-        "She behaves ___ she knows everything, but in reality, she is not well-informed.",
-        "If you want to go out tonight, you ___ finish your homework first.",
-        "___ he ___ a nice car? I've never seen it.",
-        "You ___ take a taxi rather than walk home at this hour.",
-        "The sun is setting. We should leave ___ possible.",
-        "The doctor advised him to exercise regularly; ___ be more active.",
-        "Yesterday, ___ was an interesting program on television about space exploration.",
-        "I am not sure ___ you would like this new restaurant.",
-        "He ___ run than walk if he is in a hurry.",
-        "The teacher asked the students ___ they had prepared for the exam.",
-      ],
+      questions:
+        "(a) ___ he ___ a nice car? I've never seen it.<br />" +
+        "(b) He ___ run than walk if he is in a hurry.<br />" +
+        "(c) I am not sure ___ you would like this new restaurant.<br />" +
+        "(d) If you want to go out tonight, you ___ finish your homework first.<br />" +
+        "(e) She behaves ___ she knows everything, but in reality, she is not well-informed.<br />" +
+        "(f) The doctor advised him to exercise regularly; ___ be more active.<br />" +
+        "(g) The sun is setting. We should leave ___ possible.<br />" +
+        "(h) The teacher asked the students ___ they had prepared for the exam.<br />" +
+        "(i) Yesterday, ___ was an interesting program on television about space exploration.<br />" +
+        "(j) You ___ take a taxi rather than walk home at this hour.<br />",
       answers: [
-        "as if",
-        "have to",
-        "What does... look like",
-        "had better",
-        "as soon as",
-        "would rather",
-        "there",
-        "what if",
-        "would rather",
-        "it",
+        "(a) What does... look like",
+        "(b) would rather",
+        "(c) what if",
+        "(d) have to",
+        "(e) as if",
+        "(f) would rather",
+        "(g) as soon as",
+        "(h) it",
+        "(i) there",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1084,32 +1060,31 @@ export const specialPhrasesData = [
         "have to",
         "as if",
       ],
-      questions: [
-        "He will call you ___ he arrives home.",
-        "They are so busy that they can't even attend the meeting, ___ join the party.",
-        "The sunset is beautiful today. ___ look like a painting.",
-        "I ___ stay home and read a book than go to that boring party.",
-        "The sky ___? It looks quite dark.",
-        "We ___ start preparing for the upcoming exam.",
-        "The famous artist ___ in this city many years ago.",
-        "You ___ tell him the truth about the matter.",
-        "The new mall has opened. How ___?",
-        "She talks ___ she is the expert in everything.",
-      ],
+      questions:
+        "(a) He will call you ___ he arrives home.<br />" +
+        "(b) I ___ stay home and read a book than go to that boring party.<br />" +
+        "(c) She talks ___ she is the expert in everything.<br />" +
+        "(d) The famous artist ___ in this city many years ago.<br />" +
+        "(e) The new mall has opened. How ___?<br />" +
+        "(f) The sky ___? It looks quite dark.<br />" +
+        "(g) The sunset is beautiful today. ___ look like a painting.<br />" +
+        "(h) They are so busy that they can't even attend the meeting, ___ join the party.<br />" +
+        "(i) We ___ start preparing for the upcoming exam.<br />" +
+        "(j) You ___ tell him the truth about the matter.<br />",
       answers: [
-        "as soon as",
-        "let alone",
-        "what does... look like",
-        "would rather",
-        "it",
-        "had better",
-        "was born",
-        "have to",
-        "there",
-        "as if",
+        "(a) as soon as",
+        "(b) would rather",
+        "(c) as if",
+        "(d) was born",
+        "(e) there",
+        "(f) it",
+        "(g) what does... look like",
+        "(h) let alone",
+        "(i) had better",
+        "(j) have to",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1129,32 +1104,31 @@ export const specialPhrasesData = [
         "what does... look like",
         "have to",
       ],
-      questions: [
-        "Your enemies are looking for you. ___ you left this place.",
-        "It is raining heavily, ___ closing the window.",
-        "Rifat often behaves ___ he were a prince. It becomes very difficult for me to tolerate him.",
-        "Humayun Ahmed was a teacher, author, dramatist, and filmmaker. He ___ on 13 November 1948.",
-        "___ you work hard, you will not make a good result.",
-        "I ___ resign my job than tolerate injustice. I have the moral courage to raise my voice against injustice.",
-        "___ a satellite ___? Father, I have heard of it but never got a chance to see it.",
-        "The traffic jam ___ the incident took place. But the police didn’t arrive even after two hours.",
-        "Our society is full of bad persons. We ___ remain aware of them.",
-        "Something must have happened.",
-      ],
+      questions:
+        "(a) ___ a satellite ___? Father, I have heard of it but never got a chance to see it.<br />" +
+        "(b) ___ you work hard, you will not make a good result.<br />" +
+        "(c) Humayun Ahmed was a teacher, author, dramatist, and filmmaker. He ___ on 13 November 1948.<br />" +
+        "(d) I ___ resign my job than tolerate injustice. I have the moral courage to raise my voice against injustice.<br />" +
+        "(e) It is raining heavily, ___ closing the window.<br />" +
+        "(f) Our society is full of bad persons. We ___ remain aware of them.<br />" +
+        "(g) Rifat often behaves ___ he were a prince. It becomes very difficult for me to tolerate him.<br />" +
+        "(h) Something must have happened.<br />" +
+        "(i) The traffic jam ___ the incident took place. But the police didn’t arrive even after two hours.<br />" +
+        "(j) Your enemies are looking for you. ___ you left this place.<br />",
       answers: [
-        "as soon as",
-        "have to",
-        "as if",
-        "was born",
-        "unless",
-        "would rather",
-        "What does... look like",
-        "there",
-        "have to",
-        "it is high time",
+        "(a) What does... look like",
+        "(b) unless",
+        "(c) was born",
+        "(d) would rather",
+        "(e) have to",
+        "(f) have to",
+        "(g) as if",
+        "(h) it is high time",
+        "(i) there",
+        "(j) as soon as",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1174,30 +1148,29 @@ export const specialPhrasesData = [
         "it",
         "was born",
       ],
-      questions: [
-        "Our spring is very charming. During spring various kinds of flowers bloom. ___ seems that everything has got a new life.",
-        "Baby: Mom, ___ an owl ___? Don’t disturb me; you ___ leave me alone at this moment.",
-        "The poor man ___ starve than beg.",
-        "___ exists no life on Mars.",
-        "___ taking tea with me?",
-        "Sir Walter Scott was both a poet and a novelist. He ___ in 1771.",
-        "She acts ___ she were mad.",
-        "___ we reached the station, the train started.",
-        "He did not even see a hill, ___ a mountain.",
-      ],
+      questions:
+        "(a) ___ exists no life on Mars.<br />" +
+        "(b) ___ taking tea with me?<br />" +
+        "(c) ___ we reached the station, the train started.<br />" +
+        "(d) Baby: Mom, ___ an owl ___? Don’t disturb me; you ___ leave me alone at this moment.<br />" +
+        "(e) He did not even see a hill, ___ a mountain.<br />" +
+        "(f) Our spring is very charming. During spring various kinds of flowers bloom. ___ seems that everything has got a new life.<br />" +
+        "(g) She acts ___ she were mad.<br />" +
+        "(h) Sir Walter Scott was both a poet and a novelist. He ___ in 1771.<br />" +
+        "(i) The poor man ___ starve than beg.<br />",
       answers: [
-        "It",
-        "What does... look like",
-        "had better",
-        "there",
-        "would you mind",
-        "was born",
-        "as if",
-        "as soon as",
-        "let alone",
+        "(a) there",
+        "(b) would you mind",
+        "(c) as soon as",
+        "(d) What does... look like",
+        "(e) let alone",
+        "(f) It",
+        "(g) as if",
+        "(h) was born",
+        "(i) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1217,32 +1190,31 @@ export const specialPhrasesData = [
         "lest",
         "what's it like",
       ],
-      questions: [
-        "The child cannot walk ___ run in the field.",
-        "Tareq Ahmed is a renowned teacher. He ___ in 1960.",
-        "At present, the children do not know ___ swim in water.",
-        "Parents ___ work hard to take care of their children.",
-        "Rima studies hard ___ GPA-5 should be missed.",
-        "Father, ___ a ghost ___?",
-        "Tanisha went to college ___ she could learn something.",
-        "People stopped corruption from society.",
-        "___ swimming in the river? For the first time, it seems a new experience for all.",
-        "You will not succeed in life ___ you work hard.",
-      ],
+      questions:
+        "(a) At present, the children do not know ___ swim in water.<br />" +
+        "(b) Father, ___ a ghost ___?<br />" +
+        "(c) Parents ___ work hard to take care of their children.<br />" +
+        "(d) People stopped corruption from society.<br />" +
+        "(e) Rima studies hard ___ GPA-5 should be missed.<br />" +
+        "(f) Tanisha went to college ___ she could learn something.<br />" +
+        "(g) Tareq Ahmed is a renowned teacher. He ___ in 1960.<br />" +
+        "(h) The child cannot walk ___ run in the field.<br />" +
+        "(i) You will not succeed in life ___ you work hard.<br />" +
+        "(j) ___ swimming in the river? For the first time, it seems a new experience for all.<br />",
       answers: [
-        "let alone",
-        "was born",
-        "how to",
-        "have to",
-        "lest",
-        "What does... look like",
-        "in order that",
-        "it is high time",
-        "What's it like",
-        "unless",
+        "(a) how to",
+        "(b) What does... look like",
+        "(c) have to",
+        "(d) it is high time",
+        "(e) lest",
+        "(f) in order that",
+        "(g) was born",
+        "(h) let alone",
+        "(i) unless",
+        "(j) What's it like",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1262,32 +1234,31 @@ export const specialPhrasesData = [
         "as soon as",
         "have to",
       ],
-      questions: [
-        "___ flying in the sky? I think you will enjoy a lot.",
-        "___ was a king named Robert Bruce. He was very famous.",
-        "I ___ and brought up in Bangladesh. This is a very beautiful country.",
-        "Bangladesh is an emerging power in the world cricket. But we ___ struggle more to win the world cup.",
-        "He cannot tell my name, ___ my address. He is really a liar.",
-        "___ the earth ___? It's not completely round.",
-        "We ___ walk fast than get on the train. The train is overcrowded.",
-        "The class started ___ I reached my college. I was really lucky.",
-        "You ___ go home as early as possible.",
-        "The man pretended ___ he had been very poor. So, we disliked him.",
-      ],
+      questions:
+        "(a) ___ flying in the sky? I think you will enjoy a lot.<br />" +
+        "(b) ___ the earth ___? It's not completely round.<br />" +
+        "(c) ___ was a king named Robert Bruce. He was very famous.<br />" +
+        "(d) Bangladesh is an emerging power in the world cricket. But we ___ struggle more to win the world cup.<br />" +
+        "(e) He cannot tell my name, ___ my address. He is really a liar.<br />" +
+        "(f) I ___ and brought up in Bangladesh. This is a very beautiful country.<br />" +
+        "(g) The class started ___ I reached my college. I was really lucky.<br />" +
+        "(h) The man pretended ___ he had been very poor. So, we disliked him.<br />" +
+        "(i) We ___ walk fast than get on the train. The train is overcrowded.<br />" +
+        "(j) You ___ go home as early as possible.<br />",
       answers: [
-        "Would you mind",
-        "There",
-        "was born",
-        "have to",
-        "let alone",
-        "What does... look like",
-        "would rather",
-        "as soon as",
-        "had better",
-        "as if",
+        "(a) Would you mind",
+        "(b) What does... look like",
+        "(c) There",
+        "(d) have to",
+        "(e) let alone",
+        "(f) was born",
+        "(g) as soon as",
+        "(h) as if",
+        "(i) would rather",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1307,32 +1278,31 @@ export const specialPhrasesData = [
         "had better",
         "needn't have",
       ],
-      questions: [
-        "“Can I smoke here?” “___ you didn’t. It’s a no-smoking zone.”",
-        "This car is absolutely fine ___ the engine is concerned.",
-        "We rushed to the station lest we might miss the train. But the train was late and we had to wait for an hour. We ___ hurried.",
-        "It’s well past 10 and Diba is still in bed. ___ she got up.",
-        "Nishi is a nice girl. But ___ cooking, she is absolutely hopeless.",
-        "Lima has always lived alone. She ___ living alone.",
-        "Well, you don’t need to ___ how that you have some talent.",
-        "Look at that building! It looks ___ it’s going to fall down.",
-        "I am very tired. I don’t ___ going out this evening.",
-        "“It’s getting late. I have to go now.” “You ___ not. It’s raining very hard.”",
-      ],
+      questions:
+        "(a) “Can I smoke here?” “___ you didn’t. It’s a no-smoking zone.”<br />" +
+        "(b) It’s well past 10 and Diba is still in bed. ___ she got up.<br />" +
+        "(c) I am very tired. I don’t ___ going out this evening.<br />" +
+        "(d) Lima has always lived alone. She ___ living alone.<br />" +
+        "(e) Look at that building! It looks ___ it’s going to fall down.<br />" +
+        "(f) Nishi is a nice girl. But ___ cooking, she is absolutely hopeless.<br />" +
+        "(g) This car is absolutely fine ___ the engine is concerned.<br />" +
+        "(h) We rushed to the station lest we might miss the train. But the train was late and we had to wait for an hour. We ___ hurried.<br />" +
+        "(i) Well, you don’t need to ___ how that you have some talent.<br />" +
+        "(j) “It’s getting late. I have to go now.” “You ___ not. It’s raining very hard.”<br />",
       answers: [
-        "as if",
-        "as far as",
-        "needn't have",
-        "it is about time",
-        "when it comes to",
-        "is used to",
-        "blow one's own trumpet",
-        "as if",
-        "feel like",
-        "would rather",
+        "(a) as if",
+        "(b) it is about time",
+        "(c) feel like",
+        "(d) is used to",
+        "(e) as if",
+        "(f) when it comes to",
+        "(g) as far as",
+        "(h) needn't have",
+        "(i) blow one's own trumpet",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1352,32 +1322,31 @@ export const specialPhrasesData = [
         "there",
         "would rather",
       ],
-      questions: [
-        "We ___ hire a rickshaw. It’s already too late. We have to reach the exam hall in time.",
-        "I can’t remember the name of the story, ___ the details about the different characters. I read the story many years ago.",
-        "Rima studies very hard. She will get GPA-5. ___ she deserves it.",
-        "Dola told me that the train would arrive at 7. But now it’s already 7:30. So, ___ we leave right now.",
-        "She has a lot of homework to do. ___ time to study.",
-        "Everyone thinks he is an expert in the field, but he hardly knows anything. ___ the basics.",
-        "I saw a bird in the tree. It ___ it was a parrot.",
-        "I think he is very proud of himself. He often ___ a lot.",
-        "My father ___ in a village. He has a great sense of humor.",
-        "___ a great idea! We can start our own business together.",
-      ],
+      questions:
+        "(a) ___ a great idea! We can start our own business together.<br />" +
+        "(b) ___ time to study.<br />" +
+        "(c) Dola told me that the train would arrive at 7. But now it’s already 7:30. So, ___ we leave right now.<br />" +
+        "(d) Everyone thinks he is an expert in the field, but he hardly knows anything. ___ the basics.<br />" +
+        "(e) I can’t remember the name of the story, ___ the details about the different characters. I read the story many years ago.<br />" +
+        "(f) I saw a bird in the tree. It ___ it was a parrot.<br />" +
+        "(g) I think he is very proud of himself. He often ___ a lot.<br />" +
+        "(h) My father ___ in a village. He has a great sense of humor.<br />" +
+        "(i) Rima studies very hard. She will get GPA-5. ___ she deserves it.<br />" +
+        "(j) We ___ hire a rickshaw. It’s already too late. We have to reach the exam hall in time.<br />",
       answers: [
-        "had better",
-        "let alone",
-        "as though",
-        "it",
-        "it is high time",
-        "there",
-        "what does... look like",
-        "would rather",
-        "was born",
-        "had to",
+        "(a) had to",
+        "(b) it is high time",
+        "(c) it",
+        "(d) there",
+        "(e) let alone",
+        "(f) what does... look like",
+        "(g) would rather",
+        "(h) was born",
+        "(i) as though",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1397,32 +1366,31 @@ export const specialPhrasesData = [
         "would rather",
         "was born",
       ],
-      questions: [
-        "You are not in a hurry. ___ have a cup of tea?",
-        "Alif was asking ___ to come home with him.",
-        "I am not feeling well. I ___ go to the doctor.",
-        "The children need to be more careful about their health. ___ this is the first time they have had such a serious illness.",
-        "My uncle ___ a great author. I really admire him.",
-        "I am going to quit my job; ___ I could not bear it any longer.",
-        "It is true that ___ they took my advice, they would be better off now.",
-        "You have been in Dhaka for a long time. So, you ___ traffic jams.",
-        "___ to read this book? It has been praised by many readers.",
-        "“Why didn’t you tell me about the program?” “I thought you knew about it. ___ you didn’t.”",
-      ],
+      questions:
+        "(a) Alif was asking ___ to come home with him.<br />" +
+        "(b) I am going to quit my job; ___ I could not bear it any longer.<br />" +
+        "(c) I am not feeling well. I ___ go to the doctor.<br />" +
+        "(d) It is true that ___ they took my advice, they would be better off now.<br />" +
+        "(e) My uncle ___ a great author. I really admire him.<br />" +
+        "(f) The children need to be more careful about their health. ___ this is the first time they have had such a serious illness.<br />" +
+        "(g) You are not in a hurry. ___ have a cup of tea?<br />" +
+        "(h) You have been in Dhaka for a long time. So, you ___ traffic jams.<br />" +
+        "(i) ___ to read this book? It has been praised by many readers.<br />" +
+        "(j) “Why didn’t you tell me about the program?” “I thought you knew about it. ___ you didn’t.”<br />",
       answers: [
-        "Would you mind",
-        "what does... look like",
-        "had to",
-        "it",
-        "was born",
-        "when it comes to",
-        "as if",
-        "is used to",
-        "would you mind",
-        "there",
+        "(a) what does... look like",
+        "(b) when it comes to",
+        "(c) had to",
+        "(d) as if",
+        "(e) was born",
+        "(f) it",
+        "(g) Would you mind",
+        "(h) is used to",
+        "(i) would you mind",
+        "(j) there",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1442,32 +1410,31 @@ export const specialPhrasesData = [
         "had to",
         "would rather",
       ],
-      questions: [
-        "I can hardly hear you. ___ very loud.",
-        "Shabnoor is a beautiful girl. I don’t know ___ her.",
-        "I ___ not to attend any social functions.",
-        "The train will leave ___ the passengers arrive.",
-        "My mother ___ in a small village. She is very kind-hearted.",
-        "I am afraid I ___ my attention.",
-        "You really ___ leave me alone for some time.",
-        "He acts ___ he is an experienced engineer.",
-        "They played so well. If they had practiced more, they ___ won the match.",
-        "The money is not ___ education is concerned.",
-      ],
+      questions:
+        "(a) He acts ___ he is an experienced engineer.<br />" +
+        "(b) I am afraid I ___ my attention.<br />" +
+        "(c) I can hardly hear you. ___ very loud.<br />" +
+        "(d) My mother ___ in a small village. She is very kind-hearted.<br />" +
+        "(e) Shabnoor is a beautiful girl. I don’t know ___ her.<br />" +
+        "(f) The money is not ___ education is concerned.<br />" +
+        "(g) The train will leave ___ the passengers arrive.<br />" +
+        "(h) They played so well. If they had practiced more, they ___ won the match.<br />" +
+        "(i) You really ___ leave me alone for some time.<br />" +
+        "(j) I ___ not to attend any social functions.<br />",
       answers: [
-        "it",
-        "what does... look like",
-        "would rather",
-        "as soon as",
-        "was born",
-        "had to",
-        "have to",
-        "as if",
-        "there",
-        "when it comes to",
+        "(a) as if",
+        "(b) had to",
+        "(c) it",
+        "(d) was born",
+        "(e) what does... look like",
+        "(f) when it comes to",
+        "(g) as soon as",
+        "(h) there",
+        "(i) have to",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1487,32 +1454,31 @@ export const specialPhrasesData = [
         "had better",
         "what if",
       ],
-      questions: [
-        "We --- pay a visit to Cox’s Bazar than the Sundarban. We have already visited the Sundarbans.",
-        "The storm was raging violently. We got out --- it abated.",
-        "Fardin is always boastful of his uncles. He talks --- they were the most powerful men in the country.",
-        "My college is far away from our house. I --- walk a long way to go to my college.",
-        "Jasim Uddin is a rural poet. He --- in 1903 in a village named Tambulkhana in Faridpur.",
-        "--- is very hot today. Load shedding is aggravating the situation.",
-        "Maruf cannot earn 50 marks --- 80 marks. He is a student of average standard.",
-        "--- are many mango trees around our home. They give us very sweet mangoes.",
-        "Falaz seems to be weak. He --- consult an experienced doctor.",
-        "The river is calm. --- we swim in the river? To swim in the river is a nice experience.",
-      ],
+      questions:
+        "(a) ___ is very hot today. Load shedding is aggravating the situation.<br />" +
+        "(b) ___ are many mango trees around our home. They give us very sweet mangoes.<br />" +
+        "(c) Fardin is always boastful of his uncles. He talks ___ they were the most powerful men in the country.<br />" +
+        "(d) Falaz seems to be weak. He ___ consult an experienced doctor.<br />" +
+        "(e) Jasim Uddin is a rural poet. He ___ in 1903 in a village named Tambulkhana in Faridpur.<br />" +
+        "(f) Maruf cannot earn 50 marks ___ 80 marks. He is a student of average standard.<br />" +
+        "(g) My college is far away from our house. I ___ walk a long way to go to my college.<br />" +
+        "(h) The river is calm. ___ we swim in the river? To swim in the river is a nice experience.<br />" +
+        "(i) The storm was raging violently. We got out ___ it abated.<br />" +
+        "(j) We ___ pay a visit to Cox’s Bazar than the Sundarban. We have already visited the Sundarbans.<br />",
       answers: [
-        "would rather",
-        "as soon as",
-        "as if",
-        "have to",
-        "was born",
-        "It",
-        "let alone",
-        "There",
-        "had better",
-        "What if",
+        "(a) It",
+        "(b) There",
+        "(c) as if",
+        "(d) had better",
+        "(e) was born",
+        "(f) let alone",
+        "(g) have to",
+        "(h) What if",
+        "(i) as soon as",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1532,32 +1498,31 @@ export const specialPhrasesData = [
         "so that",
         "what if",
       ],
-      questions: [
-        "He acts --- he were rich. So nobody likes him.",
-        "--- eating sea fish? I think you will enjoy a lot.",
-        "Aloka can’t afford to buy a cellphone, --- a laptop. Actually she is very poor.",
-        "It may rain today. You --- leave earlier.",
-        "Sometimes we become speechless remembering our childhood memories. We --- swim in the river.",
-        "--- is many years since we first met. How time does fly!",
-        "His mother being sick, he needs to go home --- possible.",
-        "We --- develop our humanity than observe hartal and strike. Let us change our destructive culture.",
-        "There started a heavy storm when I was about to go out --- I had been out there?",
-        "He took a part time job --- he could earn some money. He was very sincere.",
-      ],
+      questions:
+        "(a) ___ eating sea fish? I think you will enjoy a lot.<br />" +
+        "(b) ___ is many years since we first met. How time does fly!<br />" +
+        "(c) Aloka can’t afford to buy a cellphone, ___ a laptop. Actually she is very poor.<br />" +
+        "(d) He acts ___ he were rich. So nobody likes him.<br />" +
+        "(e) He took a part time job ___ he could earn some money. He was very sincere.<br />" +
+        "(f) His mother being sick, he needs to go home ___ possible.<br />" +
+        "(g) It may rain today. You ___ leave earlier.<br />" +
+        "(h) Sometimes we become speechless remembering our childhood memories. We ___ swim in the river.<br />" +
+        "(i) There started a heavy storm when I was about to go out ___ I had been out there?<br />" +
+        "(j) We ___ develop our humanity than observe hartal and strike. Let us change our destructive culture.<br />",
       answers: [
-        "as if",
-        "Would you mind",
-        "let alone",
-        "had better",
-        "used to",
-        "It",
-        "as soon as",
-        "would rather",
-        "What if",
-        "so that",
+        "(a) Would you mind",
+        "(b) It",
+        "(c) let alone",
+        "(d) as if",
+        "(e) so that",
+        "(f) as soon as",
+        "(g) had better",
+        "(h) used to",
+        "(i) What if",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1577,32 +1542,31 @@ export const specialPhrasesData = [
         "have to",
         "would rather",
       ],
-      questions: [
-        "Deforestation is a matter of great concern. We ___ take immediate steps against cutting down trees at random.",
-        "To tell a lie is a great sin. We ___ die than tell a lie. Otherwise none will believe us.",
-        "Helmet should be used while driving a motorcycle. ___ you were driving your bike and met a serious accident?",
-        "___ swimming in the sea? It seems to be very heroic to me.",
-        "___ mother heard the news, she cried loudly. She lost her child in a car accident.",
-        "Rome was not built in a day. ___ took a long-time and hard labour to build this city.",
-        "Rahman is a poor man. He cannot buy a shirt ___ a car.",
-        "Kazi Nazrul Islam is our rebel poet. He ___ in Churulia of West Bengal.",
-        "Rina's dress looks very dirty. It is old enough. She ___ buy a new dress.",
-        "Rana: Hi, Robi ___ a Pea-cock ___? Robi: It’s a very nice bird. It knows how to dance?",
-      ],
+      questions:
+        "(a) ___ mother heard the news, she cried loudly. She lost her child in a car accident.<br />" +
+        "(b) ___ swimming in the sea? It seems to be very heroic to me.<br />" +
+        "(c) Deforestation is a matter of great concern. We ___ take immediate steps against cutting down trees at random.<br />" +
+        "(d) Helmet should be used while driving a motorcycle. ___ you were driving your bike and met a serious accident?<br />" +
+        "(e) Kazi Nazrul Islam is our rebel poet. He ___ in Churulia of West Bengal.<br />" +
+        "(f) Rahman is a poor man. He cannot buy a shirt ___ a car.<br />" +
+        "(g) Rana: Hi, Robi ___ a Pea-cock ___? Robi: It’s a very nice bird. It knows how to dance?<br />" +
+        "(h) Rina's dress looks very dirty. It is old enough. She ___ buy a new dress.<br />" +
+        "(i) Rome was not built in a day. ___ took a long-time and hard labour to build this city.<br />" +
+        "(j) To tell a lie is a great sin. We ___ die than tell a lie. Otherwise none will believe us.<br />",
       answers: [
-        "have to",
-        "would rather",
-        "what if",
-        "What's it like",
-        "as soon as",
-        "it",
-        "let alone",
-        "was born",
-        "had better",
-        "what does... look like",
+        "(a) as soon as",
+        "(b) What's it like",
+        "(c) have to",
+        "(d) what if",
+        "(e) was born",
+        "(f) let alone",
+        "(g) what does... look like",
+        "(h) had better",
+        "(i) it",
+        "(j) would rather",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1622,32 +1586,31 @@ export const specialPhrasesData = [
         "used to",
         "as long as",
       ],
-      questions: [
-        "There is foul smell in the room. ___ opening the windows?",
-        "Tomorrow I will be very busy. So, I’ll say good bye now ___ I don’t see you again.",
-        "We ___ educate all and work hard to develop our country.",
-        "Nobody likes Karim at all. He talks ___ he knew everything.",
-        "The poor will continue to suffer ___ they are illiterate.",
-        "Nobody likes you here ___ you left this place.",
-        "He saw a bear coming towards him. So, he climbed up a tree ___ the bear might attack him.",
-        "Everybody disliked Rakib. He ___ do many harmful activities.",
-        "Time is very important in our life. You cannot prosper in life ___ you make proper use of time.",
-        "The students were talking in the class. ___ the teacher entered the class than they stopped talking.",
-      ],
+      questions:
+        "(a) Everybody disliked Rakib. He ___ do many harmful activities.<br />" +
+        "(b) Nobody likes Karim at all. He talks ___ he knew everything.<br />" +
+        "(c) Nobody likes you here ___ you left this place.<br />" +
+        "(d) The poor will continue to suffer ___ they are illiterate.<br />" +
+        "(e) The students were talking in the class. ___ the teacher entered the class than they stopped talking.<br />" +
+        "(f) There is foul smell in the room. ___ opening the windows?<br />" +
+        "(g) Time is very important in our life. You cannot prosper in life ___ you make proper use of time.<br />" +
+        "(h) Tomorrow I will be very busy. So, I’ll say good bye now ___ I don’t see you again.<br />" +
+        "(i) We ___ educate all and work hard to develop our country.<br />" +
+        "(j) He saw a bear coming towards him. So, he climbed up a tree ___ the bear might attack him.<br />",
       answers: [
-        "would you mind",
-        "lest",
-        "have to",
-        "as though",
-        "unless",
-        "as long as",
-        "lest",
-        "used to",
-        "unless",
-        "no sooner had",
+        "(a) used to",
+        "(b) as though",
+        "(c) as long as",
+        "(d) unless",
+        "(e) no sooner had",
+        "(f) would you mind",
+        "(g) unless",
+        "(h) lest",
+        "(i) have to",
+        "(j) lest",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1667,32 +1630,31 @@ export const specialPhrasesData = [
         "what does... look like",
         "be born",
       ],
-      questions: [
-        "The students were loitering in the corridor, ___ they seen the teacher than they entered the classroom.",
-        "Bangabandhu Sheikh Mujibur Rahman is the father of our nation. He ___ in 1920 in Tungipara of Gopalganj district.",
-        "I can’t stand Rubel. He always acts ___ he were smarter than everyone.",
-        "The little girl was suddenly crossing the road. A bus was passing by. As it came near the girl, the driver halted it. ___ he wouldn’t have stopped the bus?",
-        "Shoma ___ live in a hostel than live in her relative’s home. She feels free and comfortable in the hostel.",
-        "You started late. Now you are walking slowly. Walk fast ___ you should miss the bus.",
-        "He is very poor. He can’t afford to travel by an AC bus ___ an aeroplane.",
-        "Daughter: Mom, ___ an albatross ___? Mother: My dear, an albatross is a very large white bird that lives in the Pacific and Southern Oceans.",
-        "Long ago, ___ lived a mighty warrior named Kubla Khan. He was the grandson of Chenghis Khan.",
-        "I ___ seek advice from a doctor. I have been suffering from fever for a long time.",
-      ],
+      questions:
+        "(a) Bangabandhu Sheikh Mujibur Rahman is the father of our nation. He ___ in 1920 in Tungipara of Gopalganj district.<br />" +
+        "(b) Daughter: Mom, ___ an albatross ___? Mother: My dear, an albatross is a very large white bird that lives in the Pacific and Southern Oceans.<br />" +
+        "(c) He is very poor. He can’t afford to travel by an AC bus ___ an aeroplane.<br />" +
+        "(d) I ___ seek advice from a doctor. I have been suffering from fever for a long time.<br />" +
+        "(e) Long ago, ___ lived a mighty warrior named Kubla Khan. He was the grandson of Chenghis Khan.<br />" +
+        "(f) Shoma ___ live in a hostel than live in her relative’s home. She feels free and comfortable in the hostel.<br />" +
+        "(g) The little girl was suddenly crossing the road. A bus was passing by. As it came near the girl, the driver halted it. ___ he wouldn’t have stopped the bus?<br />" +
+        "(h) The students were loitering in the corridor, ___ they seen the teacher than they entered the classroom.<br />" +
+        "(i) I can’t stand Rubel. He always acts ___ he were smarter than everyone.<br />" +
+        "(j) You started late. Now you are walking slowly. Walk fast ___ you should miss the bus.<br />",
       answers: [
-        "no sooner had",
-        "was born",
-        "as if",
-        "what if",
-        "would rather",
-        "lest",
-        "let alone",
-        "what does... look like",
-        "there",
-        "have to",
+        "(a) was born",
+        "(b) what does... look like",
+        "(c) let alone",
+        "(d) have to",
+        "(e) there",
+        "(f) would rather",
+        "(g) what if",
+        "(h) no sooner had",
+        "(i) as if",
+        "(j) lest",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1712,32 +1674,31 @@ export const specialPhrasesData = [
         "had better",
         "would rather",
       ],
-      questions: [
-        "We ___ not go out today. A riot has broken out in our locality.",
-        "___ is a good idea to walk in the morning. One can take it as an important form of physical exercise, because it refreshes both body and mind.",
-        "Do you often ___ travel on business? You are always seen travelling abroad.",
-        "Long ago ___ lived a very pious man. His name was Hatem Tai and he was very kind hearted.",
-        "___ does a clown ___? You’ve seen a clown in the circus many a time.",
-        "I got a job at a bar. But I hate working at a bar. I ___ be a waiter than a barman.",
-        "I fills up with joy. I am very much fond of my father.",
-        "Kazi Nazrul Islam ___ in an impoverished family. He had to earn even when he was a small boy.",
-        "The economic condition of Robi is very poor. He cannot afford one meal per day ___ square meals.",
-        "After the final match of the FIFA World Cup 2014, Messi looked ___ he were completely routed. His cherished dream had been shattered.",
-      ],
+      questions:
+        "(a) ___ does a clown ___? You’ve seen a clown in the circus many a time.<br />" +
+        "(b) ___ is a good idea to walk in the morning. One can take it as an important form of physical exercise, because it refreshes both body and mind.<br />" +
+        "(c) After the final match of the FIFA World Cup 2014, Messi looked ___ he were completely routed. His cherished dream had been shattered.<br />" +
+        "(d) Do you often ___ travel on business? You are always seen travelling abroad.<br />" +
+        "(e) I fills up with joy. I am very much fond of my father.<br />" +
+        "(f) I got a job at a bar. But I hate working at a bar. I ___ be a waiter than a barman.<br />" +
+        "(g) Kazi Nazrul Islam ___ in an impoverished family. He had to earn even when he was a small boy.<br />" +
+        "(h) Long ago ___ lived a very pious man. His name was Hatem Tai and he was very kind hearted.<br />" +
+        "(i) The economic condition of Robi is very poor. He cannot afford one meal per day ___ square meals.<br />" +
+        "(j) We ___ not go out today. A riot has broken out in our locality.<br />",
       answers: [
-        "had better",
-        "there",
-        "have to",
-        "there",
-        "what... look like",
-        "would rather",
-        "as soon as",
-        "was born",
-        "let alone",
-        "as if",
+        "(a) what... look like",
+        "(b) there",
+        "(c) as if",
+        "(d) have to",
+        "(e) as soon as",
+        "(f) would rather",
+        "(g) was born",
+        "(h) there",
+        "(i) let alone",
+        "(j) had better",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1757,32 +1718,31 @@ export const specialPhrasesData = [
         "had better",
         "would rather",
       ],
-      questions: [
-        "In modern times, ___ has been a great change in the attitude of man regarding superstitious belief.",
-        "Our learners develop a very poor writing skill. They cannot write fairly well even in Bangla ___ in English.",
-        "Some city dwellers’ behaviour is often too formal. They speak in such a way ___ they were never in the village.",
-        "I have never travelled by air. ___ flying in the sky?",
-        "Riaz: ___ the frozen mountain peak...? Purnima: It looks like a white dome.",
-        "Sheela is suffering from tooth-ache. She ___ see a dentist.",
-        "Play is delayed due to rain. It will resume ___ the rain stops.",
-        "Sohel is a very good natured boy. He ___ stay at home than mix with bad companies.",
-        "Milton was a poet of versatile genius. He ___ in 1608 in England. He used to believe that one should start a profession after taking necessary preparations.",
-        "We have discussed for quite a long time. We can’t take much time any more. We ___ come to a conclusion.",
-      ],
+      questions:
+        "(a) ___ has been a great change in modern times in the attitude of man regarding superstitious belief.<br />" +
+        "(b) I have never travelled by air. ___ flying in the sky?<br />" +
+        "(c) Our learners develop a very poor writing skill. They cannot write fairly well even in Bangla ___ in English.<br />" +
+        "(d) Play is delayed due to rain. It will resume ___ the rain stops.<br />" +
+        "(e) Riaz: ___ the frozen mountain peak...? Purnima: It looks like a white dome.<br />" +
+        "(f) Sheela is suffering from tooth-ache. She ___ see a dentist.<br />" +
+        "(g) Sohel is a very good natured boy. He ___ stay at home than mix with bad companies.<br />" +
+        "(h) Some city dwellers’ behaviour is often too formal. They speak in such a way ___ they were never in the village.<br />" +
+        "(i) Milton was a poet of versatile genius. He ___ in 1608 in England. He used to believe that one should start a profession after taking necessary preparations.<br />" +
+        "(j) We have discussed for quite a long time. We can’t take much time any more. We ___ come to a conclusion.<br />",
       answers: [
-        "there",
-        "let alone",
-        "as if",
-        "What's it like",
-        "what does... look like",
-        "had better",
-        "as soon as",
-        "would rather",
-        "was born",
-        "have to",
+        "(a) there",
+        "(b) What's it like",
+        "(c) let alone",
+        "(d) as soon as",
+        "(e) what does... look like",
+        "(f) had better",
+        "(g) would rather",
+        "(h) as if",
+        "(i) was born",
+        "(j) have to",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
   {
@@ -1793,7 +1753,7 @@ export const specialPhrasesData = [
       options: [
         "there",
         "as soon as",
-        "what does... look like",
+        "what does...look like",
         "was born",
         "what if",
         "has to",
@@ -1802,32 +1762,31 @@ export const specialPhrasesData = [
         "let alone",
         "would rather",
       ],
-      questions: [
-        "It was 45 years ago when a new country named Bangladesh in the world map ___ at the cost of million of lives.",
-        "During the Liberation War of Bangladesh ___ was a great American singer George Harison who sang for Bangladesh.",
-        "___ living in Bangladesh? You seem to be very happy with your life in Bangladesh.",
-        "My foreign friend told me you ___ leave this country than live here. I replied “This is my motherland.”",
-        "In 1971 the Pakistani army did terrible atrocities against the Bangladesh. Pakistan ___ apologize for this to Bangladesh.",
-        "Pakistan always plays a role against Bangladesh. We cannot expect any co-operation from them ___ apology.",
-        "The elements of anti-liberation forces came out of their cocoons ___ the father of the nation Bangabandhu Sheikh Mujibur Rahman was killed.",
-        "Some persons living in Bangladesh always try to make conspiracy against the country ___ Bangladesh were not their own country.",
-        "The authority of Dhaka University cut ties with Pakistan. ___ the government of Bangladesh takes initiatives to cut diplomatic relation with Pakistan?",
-        "Teacher: Learners, ___ the national flower of Bangladesh ___?",
-      ],
+      questions:
+        "(a) It was 45 years ago when a new country named Bangladesh in the world map ___ at the cost of million of lives.<br />" +
+        "(b) During the Liberation War of Bangladesh ___ was a great American singer George Harison who sang for Bangladesh.<br />" +
+        "(c) ___ living in Bangladesh? You seem to be very happy with your life in Bangladesh.<br />" +
+        "(d) My foreign friend told me you ___ leave this country than live here. I replied “This is my motherland.”<br />" +
+        "(e) In 1971 the Pakistani army did terrible atrocities against the Bangladesh. Pakistan ___ apologize for this to Bangladesh.<br />" +
+        "(f) Pakistan always plays a role against Bangladesh. We cannot expect any co-operation from them ___ apology.<br />" +
+        "(g) The elements of anti-liberation forces came out of their cocoons ___ the father of the nation Bangabandhu Sheikh Mujibur Rahman was killed.<br />" +
+        "(h) Some persons living in Bangladesh always try to make conspiracy against the country ___ Bangladesh were not their own country.<br />" +
+        "(i) The authority of Dhaka University cut ties with Pakistan. ___ the government of Bangladesh takes initiatives to cut diplomatic relation with Pakistan?<br />" +
+        "(j) Teacher: Learners, ___ the national flower of Bangladesh ___?<br />",
       answers: [
-        "was born",
-        "there",
-        "What's it like",
-        "would rather",
-        "has to",
-        "let alone",
-        "as soon as",
-        "as if",
-        "what if",
-        "what does... look like",
+        "(a) was born",
+        "(b) there",
+        "(c) What's it like",
+        "(d) would rather",
+        "(e) has to",
+        "(f) let alone",
+        "(g) as soon as",
+        "(h) as if",
+        "(i) what if",
+        "(j) what does...look like",
       ],
       isDifficult: false,
-      isCompleted: false,
+      isCompleted: true,
     },
   },
 ];
