@@ -23,6 +23,15 @@ export default function HSCContent() {
         <li>
           <Link to="/connectors">Connectors</Link>
         </li>
+        <li>
+          <Link to="/punctuations">Punctuations</Link>
+        </li>
+        <li>
+          <Link to="/pronoun-references">Pronoun References</Link>
+        </li>
+        <li>
+          <Link to="/narrations">Narrations</Link>
+        </li>
       </ul>
     </section>
   );
