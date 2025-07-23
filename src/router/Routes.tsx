@@ -27,51 +27,51 @@ export const router = createBrowserRouter([
         path: "ssc-content",
         element: <SSCContent />,
       },
-    ],
-  },
 
-  {
-    path: "special-phrases",
-    element: <SpecialPhrases />,
-  },
-  {
-    path: "prepositions",
-    element: <Prepositions />,
-  },
-  {
-    path: "completing-sentences",
-    element: <CompletingSentences />,
-  },
-  {
-    path: "modifiers",
-    element: <Modifiers />,
-  },
-  {
-    path: "right-form-of-verbs",
-    element: <RightFormOfVerbs />,
-  },
-  {
-    path: "connectors",
-    element: <Connectors />,
-  },
-  {
-    path: "punctuations",
-    element: <Punctuations />,
-  },
-  {
-    path: "pronoun-references",
-    element: <PronounReferences />,
-  },
-  {
-    path: "narrations",
-    element: <Narrations />,
-  },
-  {
-    path: "ssc-right-forms-of-verbs",
-    element: <SSCRightFormsOfVerbs />,
-  },
-  {
-    path: "ssc-tag-questions",
-    element: <TagQuestions />,
+      {
+        path: "special-phrases",
+        element: <SpecialPhrases />,
+      },
+      {
+        path: "prepositions",
+        element: <Prepositions />,
+      },
+      {
+        path: "completing-sentences",
+        element: <CompletingSentences />,
+      },
+      {
+        path: "modifiers",
+        element: <Modifiers />,
+      },
+      {
+        path: "right-form-of-verbs",
+        element: <RightFormOfVerbs />,
+      },
+      {
+        path: "connectors",
+        element: <Connectors />,
+      },
+      {
+        path: "punctuations",
+        element: <Punctuations />,
+      },
+      {
+        path: "pronoun-references",
+        element: <PronounReferences />,
+      },
+      {
+        path: "narrations",
+        element: <Narrations />,
+      },
+      {
+        path: "ssc-right-forms-of-verbs",
+        element: <SSCRightFormsOfVerbs />,
+      },
+      {
+        path: "ssc-tag-questions",
+        element: <TagQuestions />,
+      },
+    ],
   },
 ]);
