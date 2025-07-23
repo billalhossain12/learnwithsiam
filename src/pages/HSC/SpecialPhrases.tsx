@@ -1,4 +1,4 @@
-import HSCQuestions from "../../components/HSCQuestions";
+import HSCQuestions from "../../components/BoardQuestion";
 import { specialPhrasesData } from "../../DB/specialPhrases";
 
 export default function SpecialPhrases() {

@@ -1,9 +1,9 @@
-import HSCQuestions from "../../components/HSCQuestions";
+import BoardQuestion from "../../components/BoardQuestion";
 import { prepositions } from "../../DB/prepositions";
 
 export default function Prepositions() {
   return (
-    <HSCQuestions
+    <BoardQuestion
       data={prepositions}
       title="Prepositions"
       questionTitle="Complete the text with suitable prepositions:"

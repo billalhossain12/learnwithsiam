@@ -14,7 +14,7 @@ type TItem = {
   };
 };
 
-export default function HSCQuestions({
+export default function BoardQuestion({
   data,
   title,
   questionTitle,

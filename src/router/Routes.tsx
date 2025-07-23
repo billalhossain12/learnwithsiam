@@ -10,6 +10,9 @@ import Connectors from "../pages/HSC/Connectors";
 import Punctuations from "../pages/HSC/Punctuations";
 import PronounReferences from "../pages/HSC/PronounReferences";
 import Narrations from "../pages/HSC/Narrations";
+import SSCRightFormsOfVerbs from "../pages/SSC/SSCRightFormsOfVerbs";
+import TagQuestions from "../pages/SSC/TagQuestions";
+import SSCContent from "../pages/SSC/SSCContent";
 
 export const router = createBrowserRouter([
   {
@@ -20,8 +23,13 @@ export const router = createBrowserRouter([
         path: "hsc-content",
         element: <HSCContent />,
       },
+      {
+        path: "ssc-content",
+        element: <SSCContent />,
+      },
     ],
   },
+
   {
     path: "special-phrases",
     element: <SpecialPhrases />,
@@ -57,5 +65,13 @@ export const router = createBrowserRouter([
   {
     path: "narrations",
     element: <Narrations />,
+  },
+  {
+    path: "ssc-right-forms-of-verbs",
+    element: <SSCRightFormsOfVerbs />,
+  },
+  {
+    path: "ssc-tag-questions",
+    element: <TagQuestions />,
   },
 ]);
