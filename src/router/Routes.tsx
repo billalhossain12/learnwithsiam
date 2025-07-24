@@ -13,6 +13,7 @@ import Narrations from "../pages/HSC/Narrations";
 import SSCRightFormsOfVerbs from "../pages/SSC/SSCRightFormsOfVerbs";
 import TagQuestions from "../pages/SSC/TagQuestions";
 import SSCContent from "../pages/SSC/SSCContent";
+import SuffixPrefix from "../pages/SSC/SuffixPrefix";
 
 export const router = createBrowserRouter([
   {
@@ -71,6 +72,10 @@ export const router = createBrowserRouter([
       {
         path: "ssc-tag-questions",
         element: <TagQuestions />,
+      },
+      {
+        path: "ssc-suffix-prefix",
+        element: <SuffixPrefix />,
       },
     ],
   },

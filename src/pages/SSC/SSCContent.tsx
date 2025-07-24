@@ -11,6 +11,9 @@ export default function SSCContent() {
         <li>
           <Link to="/ssc-tag-questions">Tag Questions</Link>
         </li>
+        <li>
+          <Link to="/ssc-suffix-prefix">Adding Suffix & Prefix</Link>
+        </li>
       </ul>
     </section>
   );
