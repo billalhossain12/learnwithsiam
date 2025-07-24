@@ -5,7 +5,7 @@ export default function MainLayout() {
   return (
     <main>
       <Header />
-      <div className="mx-10 mt-20 mb-10">
+      <div className="md:mx-10 mx-5 md:mt-24 mt-20 mb-10">
         <Outlet />
       </div>
     </main>

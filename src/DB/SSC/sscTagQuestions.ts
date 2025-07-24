@@ -1,6 +1,150 @@
 export const sscTagQuestions = [
   {
     exam: "ssc",
+    year: 2025,
+    board: "Dhaka",
+    data: {
+      questions:
+        "(a) Everybody wants to have a better life, ______?<br/>(b) A better life seldom comes without hard work, ______?<br/>(c) We have to work for this, ______?<br/>(d) But most of us can hardly do the job, ______?<br/>(e) Actually, life isn't a bed of roses, ______?",
+      answers: [
+        "(a) don't they?",
+        "(b) does it?",
+        "(c) don't we/haven't we?",
+        "(d) can we?",
+        "(e) is it?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Cumilla",
+    data: {
+      questions:
+        "(a) Our new English teacher is very affectionate, ______?<br/>(b) She has joined recently, ______?<br/>(c) She never scolds her students, ______?<br/>(d) Each of her students loves her, ______?<br/>(e) None of her students dislikes her, ______?",
+      answers: [
+        "(a) isn't she?",
+        "(b) hasn't she/doesn't she?",
+        "(c) does she?",
+        "(d) don't they?",
+        "(e) do they?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Barishal",
+    data: {
+      questions:
+        "(a) Money is a must for our life, ______?<br/>(b) One can do almost nothing without it, ______?<br/>(c) But money can hardly bring happiness, ______?<br/>(d) What do you need most to be happy is contentment, ______?<br/>(e) That’s why a few people lead a happy life, ______?",
+      answers: [
+        "(a) isn’t it?",
+        "(b) can one / can they?",
+        "(c) can it?",
+        "(d) isn’t it?",
+        "(e) don’t they?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Chattagram",
+    data: {
+      questions:
+        "(a) I along with you an SSC examinees, ______?<br/>(b) Let me make the best use of time, ______?<br/>(c) We should not neglect time, ______?<br/>(d) Everyone wants to get A+, ______?<br/>(e) We know that time is very valuable, ______?",
+      answers: [
+        "(a) aren’t I?",
+        "(b) will you?",
+        "(c) should we?",
+        "(d) don’t they?",
+        "(e) don’t we?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Dinajpur",
+    data: {
+      questions:
+        "(a) 'But' is a conjunction, ______?<br/>(b) I am not a dancer, ______?<br/>(c) He let me make tea, ______?<br/>(d) The Titanic sank on its first voyage, ______?<br/>(e) He will visit a book fair tomorrow, ______?",
+      answers: [
+        "(a) isn't it?",
+        "(b) am I?",
+        "(c) didn't he?",
+        "(d) didn't it/she?",
+        "(e) won't he?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Jashore",
+    data: {
+      questions:
+        "(a) Nobody trusts a liar, ______?<br/>(b) A liar has to lead a miserable life, ______?<br/>(c) Speaking the truth is a good exercise, ______?<br/>(d) Everybody should have the habit of speaking the truth, ______?<br/>(e) Let us always speak the truth, ______?",
+      answers: [
+        "(a) do they?",
+        "(b) doesn’t he/ hasn’t he?",
+        "(c) isn’t it?",
+        "(d) shouldn’t they?",
+        "(e) shall we?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Rajshahi",
+    data: {
+      questions:
+        "(a) Nobody believes a cheat, ______?<br/>(b) Everybody hates him, ______?<br/>(c) He has to drag a miserable life, ______?<br/>(d) He can hardly succeed in life, ______?<br/>(e) Let us always speak the truth, ______?",
+      answers: [
+        "(a) do they?",
+        "(b) don't they?",
+        "(c) doesn't he/hasn't he?",
+        "(d) can he?",
+        "(e) shall we?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
+    year: 2025,
+    board: "Sylhet",
+    data: {
+      questions:
+        "(a) Don't make late. Let's go, ______?<br/>(b) A barking dog seldom bites, ______?<br/>(c) Money is a must for life, ______?<br/>(d) Everybody believes this truth, ______?<br/>(e) The teacher says, 'Charity begins at home', ______?",
+      answers: [
+        "(a) shall we?",
+        "(b) does it?",
+        "(c) isn't it?",
+        "(d) don't they?",
+        "(e) doesn't it?",
+      ],
+      isDifficult: false,
+      isCompleted: true,
+    },
+  },
+  {
+    exam: "ssc",
     year: 2024,
     board: "Dhaka",
     data: {

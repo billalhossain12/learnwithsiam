@@ -35,7 +35,7 @@ export default function HSCQuestionsString({
   });
 
   return (
-    <main className="p-6 md:p-10">
+    <main>
       <h1 className="text-3xl md:text-4xl font-bold text-gray-800 mb-6">
         {title}
       </h1>
