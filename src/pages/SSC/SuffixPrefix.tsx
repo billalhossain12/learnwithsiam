@@ -6,7 +6,7 @@ export default function SuffixPrefix() {
     <BoardQuestion
       data={suffixPrefix}
       title="Suffix & Prefix"
-      questionTitle="Adding suffix and prefix"
+      questionTitle="Complete the text adding prefixes, suffixes, or both to the root words given in the parenthesis."
     />
   );
 }

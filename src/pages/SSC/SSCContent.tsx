@@ -14,6 +14,9 @@ export default function SSCContent() {
         <li>
           <Link to="/ssc-suffix-prefix">Adding Suffix & Prefix</Link>
         </li>
+        <li>
+          <Link to="/ssc-connectors">SSC Connectors</Link>
+        </li>
       </ul>
     </section>
   );
