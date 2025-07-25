@@ -17,6 +17,12 @@ export default function SSCContent() {
         <li>
           <Link to="/ssc-connectors">SSC Connectors</Link>
         </li>
+        <li>
+          <Link to="/ssc-completing-sentences">SSC Completing Sentences</Link>
+        </li>
+        <li>
+          <Link to="/ssc-changing-sentence">Changing Sentence</Link>
+        </li>
       </ul>
     </section>
   );
